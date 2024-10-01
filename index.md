@@ -28,10 +28,4 @@ ___
  
 ___
 
-## Research interests & contributions 
 
-
->> We also use large-scale atomistic simulations powered by state-of-the-art machine learning methods to understand molecular reactions in neat solvent. (Preprint coming soon.)
-> 
-> **J. H. Yang†**, A. W.-S. Ooi, Y. Xie, Z. A. Goodwin, J. Ding, S. Falletta, A.-H. A. Park, and B. Kozinsky†, “Thermal decomposition of the ethaline deep eutectic solvent”, _in preparation_.
-> 
