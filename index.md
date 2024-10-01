@@ -12,7 +12,7 @@ I am an **[Post-Doctoral Research Associate](https://coe.northeastern.edu/people
 
 As a **materials scientist working closely with experiments** using computation and machine learning, my research elucidates thermodynamic and kinetic behavior of atoms or molecules to understand and design urgently-needed, sustainable materials for **energy storage and the environment**.
 
-Please see [Google Scholar](https://scholar.google.com/citations?user=GUYnP_cAAAAJ&hl=en) for a full list of publications. 
+Please see [Google Scholar](https://scholar.google.com/citations?user=chmsWhIAAAAJ&hl=en) for a full list of publications. 
 
 ___
 
