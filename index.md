@@ -8,7 +8,7 @@
   gtag('config', 'G-6KTXKWMYF3');
 </script>
 
-I am an **[Environmental Fellow](https://environment.harvard.edu/environmental-fellows-program)** at Harvard University Center for the Environment (HUCE) working with the **[Materials Intelligence Research](https://mir.g.harvard.edu/)** group since July 2022. Previously, I was a Ph.D. student at University of California, Berkeley with the **[Ceder](https://ceder.berkeley.edu)** group and an AI Resident with **[X](https://x.company/)** (formerly Google X). 
+I am an **[Post-Doctoral Research Associate](https://coe.northeastern.edu/people/kothakonda-manish-kumar/)** at Northeastern University working with the **[Computational Catalyst Design group](https://www.qzhao-neu.com/)** group since Sept 2023. Previously, I was a Ph.D. student at Tulane University, New Orleans with the **[Jianwei Sun's group](https://www.matcomp.org/)** and Postdoctoral Research associate at National Renewable Energy Lab.
 
 As a **materials scientist working closely with experiments** using computation and machine learning, my research elucidates thermodynamic and kinetic behavior of atoms or molecules to understand and design urgently-needed, sustainable materials for **energy storage and the environment**.
 
