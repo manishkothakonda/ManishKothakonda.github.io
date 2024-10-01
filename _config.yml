@@ -1,5 +1,8 @@
 title: Manish K. Kothakonda
 logo: /assets/img/headshot_circle.png
+description: Computational materials scientist working closely with experiments to address 
+             urgently-needed solutions for energy storage and the environment. Postdoc at Northeastern, Ph.D. from Tulane
+
 #description: text below image
-show_downloads: true
+# show_downloads: true
 theme: jekyll-theme-minimal
