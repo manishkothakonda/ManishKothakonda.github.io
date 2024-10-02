@@ -8,7 +8,7 @@
   gtag('config', 'G-6KTXKWMYF3');
 </script>
 
-I am an **[Post-Doctoral Research Associate](https://coe.northeastern.edu/people/kothakonda-manish-kumar/)** at Northeastern University working with Qing Zhao at **[Computational Catalyst Design group](https://www.qzhao-neu.com/)** since Sept 2023. Previously, I was a Ph.D. student at Tulane University, New Orleans at the **[Jianwei Sun's](https://www.matcomp.org/) Materials computation group** and Postdoctoral Research associate at National Renewable Energy Lab.
+I am a **[Post-Doctoral Research Associate](https://coe.northeastern.edu/people/kothakonda-manish-kumar/)** at Northeastern University working with Qing Zhao at **[Computational Catalyst Design group](https://www.qzhao-neu.com/)** since Sept 2023. Previously, I was a Ph.D. student at Tulane University, New Orleans at **[Jianwei Sun's](https://www.matcomp.org/) Materials computation group** and Postdoctoral Research associate at the National Renewable Energy Lab & Colorado School of Mines.
 
 As a **materials scientist**, I work closely with experimentalists, leveraging **computation and machine learning** to elucidate the thermodynamic and kinetic behavior of **catalytic active materials**. My research focuses on understanding and designing sustainable materials critically needed for heterogeneous catalysis and environmental applications.
 
