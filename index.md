@@ -16,16 +16,16 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=chmsWhIAAA
 
 ___
 
-## Diversity, Equity, Inclusion, and Belonging 
-
-> We are committed to fostering environments that are professionally and personally inclusive, equitable, psychologically safe, and **welcoming to all teammates**. We do this by leading with **kindness, open-mindedness, and empathy**.  
-> 
-> 1. **Kindness**: We communicate openly and respectfully, remembering that it is okay for others to have different opinions from us. We treat others with the kindness we want others to treat us. 
-> 2. **Open-mindedness**: We leave assumptions behind, and seek first to understand. We are aware of community biases and are persistent in finding new ways to reduce them. Lastly we actively encourage our peers to hold themselves to these same standards. 
-> 3. **Empathy**:  We always remember that we are on the same team, working together on science and engineering challenges that need our solutions. We give ourselves and others the time, space, and patience to grow and learn.
-> 
-> These are our guiding principles as **ethical scientists and engineers**.
- 
+## Diversity, Equity, Inclusion, and Belonging
+> I am committed to creating environments that are inclusive, equitable, and welcoming to everyone-whether personally or professionally. My approach is grounded in kindness, open-mindedness, and empathy.
+>
+> 1. Kindness: I believe in open, respectful communication. It’s important to me that different perspectives are welcomed, and I strive to treat others as I would want to be treated.
+>
+> 2. Open-mindedness: I focus on understanding rather than assuming. I’m aware of biases and am committed to actively reducing them. I also encourage those around me to uphold the same standards of inclusivity.
+>
+> 3. Empathy: I always keep in mind that we are working together to solve complex scientific and engineering challenges. I value patience and space for growth—both for myself and those I collaborate with.
+>
+These principles guide me in my work as a scientist and engineer, and I’m dedicated to fostering a positive and ethical environment for everyone.
 ___
 
 
