@@ -28,4 +28,12 @@ ___
 These principles guide me in my work as a scientist and engineer, and I’m dedicated to fostering a positive and ethical environment for everyone.
 ___
 
+## Research interests & contributions 
+### I. Thermodynamic stability of solids using r^2SCAN density functional
+> In this study, we assess the r2SCAN functional for its accuracy and stability in predicting solid-state thermodynamic properties, including formation and decomposition enthalpies, equilibrium volumes, and band gaps of over 1,000 solids. We compare r2SCAN with SCAN, PBE, and dispersion-corrected variants (SCAN+rVV10 and r2SCAN+rVV10). r2SCAN maintains accuracy comparable to SCAN, often improving upon SCAN for intermetallic systems, while balancing numerical stability. Notably, r2SCAN+rVV10 offers slightly better volume predictions but marginally less accurate formation enthalpies. Overall, r2SCAN is recommended as a reliable, general-purpose meta-GGA for materials discovery.
+>
+> ### Previous work:
+> We evaluated the r2SCAN functional's accuracy and stability in predicting solid-state thermodynamic properties, showing it improves on SCAN and performs reliably for materials discovery.
+> ![]()
+
 
