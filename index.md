@@ -34,6 +34,6 @@ ___
 >
 > ### Previous work:
 > We evaluated the r2SCAN functional's accuracy and stability in predicting solid-state thermodynamic properties, showing it improves on SCAN and performs reliably for materials discovery.
-> ![]()
+> ![](r2scan_test_solids.jpeg)
 
 
