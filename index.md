@@ -35,5 +35,5 @@ ___
 > ### Previous work:
 > We evaluated the r2SCAN functional's accuracy and stability in predicting solid-state thermodynamic properties, showing it improves on SCAN and performs reliably for materials discovery.
 > ![](r2scan_test_solids.jpeg)
-
+> Kothakonda, Manish, Aaron D. Kaplan, Eric B. Isaacs, Christopher J. Bartel, James W. Furness, Jinliang Ning, Chris Wolverton, John P. Perdew, and Jianwei Sun. "Testing the r2SCAN Density Functional for the Thermodynamic Stability of Solids with and without a van der Waals Correction." ACS Materials Au 3, no. 2 (2022): 102-111[https://doi.org/10.1021/acsmaterialsau.2c00059](https://pubs.acs.org/doi/10.1021/acsmaterialsau.2c00059?ref=PDF)
 
