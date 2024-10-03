@@ -28,11 +28,10 @@ ___
 These principles guide me in my work as a scientist and engineer, and I’m dedicated to fostering a positive and ethical environment for everyone.
 ___
 
-## Research interests & contributions 
+## Research contributions 
 ### I. Thermodynamic stability of solids using r^2SCAN density functional
 > In this study, we assess the r2SCAN functional for its accuracy and stability in predicting solid-state thermodynamic properties, including formation and decomposition enthalpies, equilibrium volumes, and band gaps of over 1,000 solids. We compare r2SCAN with SCAN, PBE, and dispersion-corrected variants (SCAN+rVV10 and r2SCAN+rVV10). r2SCAN maintains accuracy comparable to SCAN, often improving upon SCAN for intermetallic systems, while balancing numerical stability. Notably, r2SCAN+rVV10 offers slightly better volume predictions but marginally less accurate formation enthalpies. Overall, r2SCAN is recommended as a reliable, general-purpose meta-GGA for materials discovery.
 >
-> ### Previous work:
 > We evaluated the r2SCAN functional's accuracy and stability in predicting solid-state thermodynamic properties, showing it improves on SCAN and performs reliably for materials discovery.
 > ![](r2scan_test_solids.jpeg)
 > **Kothakonda, Manish**, Aaron D. Kaplan, Eric B. Isaacs, Christopher J. Bartel, James W. Furness, Jinliang Ning, Chris Wolverton, John P. Perdew, and Jianwei Sun. "Testing the r2SCAN Density Functional for the Thermodynamic Stability of Solids with and without a van der Waals Correction." ACS Materials Au 3, no. 2 (2022): 102-111 [https://doi.org/10.1021/acsmaterialsau.2c00059](https://pubs.acs.org/doi/10.1021/acsmaterialsau.2c00059?ref=PDF)
