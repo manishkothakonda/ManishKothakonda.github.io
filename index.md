@@ -12,7 +12,7 @@ I am a **[Post-Doctoral Research Associate](https://coe.northeastern.edu/people/
 
 As a **materials scientist**, I work closely with experimentalists, leveraging **computation and machine learning** to elucidate the thermodynamic and kinetic behavior of **catalytic active materials**. My research focuses on understanding and designing sustainable materials critically needed for heterogeneous catalysis and environmental applications.
 
-Please see [Google Scholar](https://scholar.google.com/citations?user=chmsWhIAAAAJ&hl=en) for a full list of publications and my [CV](https://manishkothakonda.github.io/assets/files/CV_MK.pdf). 
+Please see [Google Scholar](https://scholar.google.com/citations?user=chmsWhIAAAAJ&hl=en) for a full list of publications and my [CV](https://manishkothakonda.github.io/assets/files/MKK_CV.pdf). 
 
 ___
 
