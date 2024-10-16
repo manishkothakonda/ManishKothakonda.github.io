@@ -32,7 +32,7 @@ ___
 ### II. Development of density functional for adsorption of molecules on surfaces
 > In this study, we developed an efficient density functional approximation that accurately describes both chemical and physical adsorption processes by optimizing the semilocal component and incorporating a long-range van der Waals (vdW) correction. To achieve this, we fine-tuned the functional using two benchmark systems: CO adsorption on a Pt(111) surface to capture chemical interactions, and the Ar2 binding energy curve for vdW interactions. This approach successfully balances the accuracy of both short-range chemical bonding and long-range vdW forces, offering a reliable tool for modeling general molecular adsorption processes.
 > ![](Bivariate_G_Ni.jpg)
-> **Kothakonda, Manish**, Ruiqi Zhang, Jinliang Ning, James Furness, Abhirup Patra, Qing Zhao, Jianwei Sun, "Towards chemical accuracy for chemi- and physisorption with an efficient density functional" A [https://arxiv.org/pdf/2410.11248](https://arxiv.org/pdf/2410.11248)
+> **Kothakonda, Manish**, Ruiqi Zhang, Jinliang Ning, James Furness, Abhirup Patra, Qing Zhao, Jianwei Sun, "Towards chemical accuracy for chemi- and physisorption with an efficient density functional"  [https://arxiv.org/pdf/2410.11248](https://arxiv.org/pdf/2410.11248)
 
 
 ### II. Thermodynamic stability of solids using r^2SCAN density functional
