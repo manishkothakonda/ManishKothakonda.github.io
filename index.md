@@ -12,7 +12,7 @@ Hi! I am Manish Kothakonda, a **[Post-Doctoral Research Associate](https://coe.n
 
 My research focuses on the intersection of **materials for catalysis**, **ab-initio density functional theory**, and **machine learning**. As a materials scientist, I collaborate closely with experimentalists, utilizing computational methods and machine learning to explore the thermodynamic and kinetic properties of catalytic active materials. My work is dedicated to understanding and designing sustainable materials essential for heterogeneous catalysis and environmental applications.
 
-Please see [Google Scholar](https://scholar.google.com/citations?user=chmsWhIAAAAJ&hl=en) for a full list of publications and my [CV](https://manishkothakonda.github.io/assets/files/MK_CV_1310.pdf). 
+Please see [Google Scholar](https://scholar.google.com/citations?user=chmsWhIAAAAJ&hl=en) for a full list of publications and my [CV](https://manishkothakonda.github.io/assets/files/CV_MKK_1026.pdf). 
 
 ___
 
